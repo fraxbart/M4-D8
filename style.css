@@ -1,0 +1,40 @@
+td {
+    vertical-align: middle;
+}
+
+td img {
+    height: 55px;
+}
+
+.card img {
+    width: 100%;
+    height: 400px;
+    object-fit: contain;
+    padding: 0 5px;
+}
+
+.spinner-container {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.max-height-100 {
+    max-height: 100vh;
+}
+
+.btn-trasparent {
+    background-color: transparent;
+    border: none;
+}
+
+.navbar{
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 10px;
+}
+
+h2{
+    font-family: Arial, Helvetica, sans-serif;
+    color: darkred;
+}
